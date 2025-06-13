@@ -211,7 +211,7 @@
         O24_DEFAULT_LAYER {
             display-name = "Default";
             bindings = <
-&kt ESC    &kp Q         &kp L             &kp U                   &kp COMMA     &kp PERIOD        &kp F          &kp W          &kp R                    &kp Y       &kp P        &mt EQUAL SLASH
+&kp ESC    &kp Q         &kp L             &kp U                   &kp COMMA     &kp PERIOD        &kp F          &kp W          &kp R                    &kp Y       &kp P        &mt EQUAL SLASH
 &kp TAB    &kp E         &kp I             &kp A                   &kp O         &kp MINUS         &kp K          &kp T          &kp N                    &kp S       &mt2 LBKT H  &mt2 SQT RBKT
 &kp LSHFT  &kp Z         &kp X             &kp C                   &kp V         &kp SEMICOLON     &kp G          &kp D          &kp M                    &kp J       &mt2 UP B    &kp BSLH
 &kp LCTRL  &kp LEFT_ALT  &kp LEFT_COMMAND  &mt LEFT_COMMAND LANG2  &lt2 2 SPACE  &lt2 3 BACKSPACE  &lt 4 RETURN   &kp BACKSPACE  &mt RIGHT_COMMAND LANG1  &kp LEFT    &kp DOWN     &kp RIGHT
