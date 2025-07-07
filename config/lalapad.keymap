@@ -199,6 +199,11 @@
             bindings = <&kp ENTER>;
             key-positions = <43 44>;
         };
+
+        Shift {
+            bindings = <&kp RIGHT_SHIFT>;
+            key-positions = <33 34>;
+        };
     };
 
     keymap {
